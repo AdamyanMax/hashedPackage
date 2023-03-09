@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: DjangoPackageTest
+Version: 0.1.2
+Summary: This is a Django project hashed with cython, for testing purposes only. In the 'util.hello_world' there is a hello world function.
+Author: Maxim Adamyan
+Author-email: maximadamyan2@gmail.com

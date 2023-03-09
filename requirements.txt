@@ -1,0 +1,4 @@
+setuptools==67.6.0
+Django==4.1.7
+Cython==0.29.33
+pip==23.0.1
